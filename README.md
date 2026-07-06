@@ -53,7 +53,7 @@ tic-tac-toe/
 
 You can play the game here:
 
-**asif213067.github.io/Tic-Tac-Toe/**
+**https://asif213067.github.io/Tic-Tac-Toe/**
 
 ---
 
